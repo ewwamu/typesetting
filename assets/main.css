@@ -34,3 +34,15 @@ body {
 #submit {
   font-family: 'ABCDiatype-Regular';
 }
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    width: 10em;
+    flex-direction: row;
+}
+
+button {
+    border-radius: 25px;
+    font-size: 2em;
+}
