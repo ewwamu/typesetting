@@ -6,13 +6,13 @@
 	font-style: normal;
 }
 
-@font-face {
+/* @font-face {
 	font-family: 'ABCDiatype-Medium';
 	src: url("/assets/fonts/ABCDiatypeMono-Medium.woff") format("woff");
 	src: url("/assets/fonts/ABCDiatypeMono-Medium.woff2") format("woff2");
 	font-weight: bold;
 	font-style: bold;
-}
+} */
 
 html,
 body {
