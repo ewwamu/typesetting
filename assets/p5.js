@@ -96,7 +96,7 @@ function fun4() {
 }
 
 
-
+// update pls
 
 // function newTyping() {
 //     output.html(textfield.value() )
