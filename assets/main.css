@@ -1,8 +1,7 @@
 @font-face {
-	font-family: 'ABCDiatype-Regular';
-	src: url("/assets/fonts/ABCDiatypeMono-Regular.woff") format("woff");
-	src: url("/assets/fonts/ABCDiatypeMono-Regular.woff2") format("woff2");
-	font-weight: normal;
+	font-family: "ABCDiatype-Regular";
+	src: url("./fonts/ABCDiatypeMono-Regular.woff") format("woff");
+	src: url("./fonts/ABCDiatypeMono-Regular.woff2") format("woff2");
 	font-style: normal;
 }
 
